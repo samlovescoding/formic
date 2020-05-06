@@ -1,0 +1,17 @@
+{
+    "name": "samlovescoding/formic",
+    "description": "An elegant way to implement forms in your PHP projects.",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Sampan Verma",
+            "email": "sampan.developer@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Formic\\": "src/"
+        }
+    },
+    "require": {}
+}
