@@ -2,6 +2,7 @@
     "name": "samlovescoding/formic",
     "description": "An elegant way to implement forms in your PHP projects.",
     "type": "library",
+    "license": "MIT",
     "authors": [
         {
             "name": "Sampan Verma",
