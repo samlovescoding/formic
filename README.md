@@ -12,7 +12,7 @@ Formic is a PHP Library that provides form components for easy and quick form ge
 Use composer to install Formic.
 
 ```sh
-composer required samlovescoding/formic
+composer require samlovescoding/formic
 ```
 
 Import the compose autoload.
